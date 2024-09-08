@@ -1,0 +1,46 @@
+Diet = ['pescatarian' 'vegetarian' 'omnivore' 'vegan'] 
+
+How Often Shower = ['daily' 'less frequently' 'more frequently' 'twice a day'] 
+
+Heating Energy Source = ['coal' 'natural gas' 'wood' 'electricity'] 
+
+Transport = ['public' 'walk/bicycle' 'private'] 
+
+Vehicle Type = ['petrol' 'diesel' 'hybrid' 'lpg' 'electric'] 
+
+Social Activity = ['often' 'never' 'sometimes'] 
+
+Frequency of Traveling by Air = ['frequently' 'rarely' 'never' 'very frequently'] 
+
+Waste Bag Size = ['large' 'extra large' 'small' 'medium'] 
+
+Waste Bag Weekly Count = [4 3 1 5 6 2 7] 
+
+Energy efficiency = ['No' 'Sometimes' 'Yes']
+
+
+
+Numerical Features:
+Monthly Grocery Bill
+Max = 299
+Min = 50
+
+Vehicle Monthly Distance Km
+Max = 9999
+Min = 0
+
+Waste Bag Weekly Count
+Max = 7
+Min = 1
+
+How Long TV PC Daily Hour
+Max = 24
+Min = 0
+
+How Many New Clothes Monthly
+Max = 50
+Min = 0
+
+How Long Internet Daily Hour
+Max = 24
+Min = 0
